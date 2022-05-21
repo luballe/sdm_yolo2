@@ -1,0 +1,13 @@
+/monitoreo/videos/Videos_2022_02_17/0700-1000-CR7x94_NS/results/0645-0700.avi
+/monitoreo/videos/Videos_2022_02_17/0700-1000-CR7x94_NS/results/0700-0715.avi
+/monitoreo/videos/Videos_2022_02_17/0700-1000-CR7x94_NS/results/0715-0730.avi
+/monitoreo/videos/Videos_2022_02_17/0700-1000-CR7x94_NS/results/0730-0745.avi
+/monitoreo/videos/Videos_2022_02_17/0700-1000-CR7x94_NS/results/0745-0800.avi
+/monitoreo/videos/Videos_2022_02_17/0700-1000-CR7x94_NS/results/0800-0815.avi
+/monitoreo/videos/Videos_2022_02_17/0700-1000-CR7x94_NS/results/0815-0830.avi
+/monitoreo/videos/Videos_2022_02_17/0700-1000-CR7x94_NS/results/0830-0845.avi
+/monitoreo/videos/Videos_2022_02_17/0700-1000-CR7x94_NS/results/0845-0900.avi
+/monitoreo/videos/Videos_2022_02_17/0700-1000-CR7x94_NS/results/0900-0915.avi
+/monitoreo/videos/Videos_2022_02_17/0700-1000-CR7x94_NS/results/0915-0930.avi
+/monitoreo/videos/Videos_2022_02_17/0700-1000-CR7x94_NS/results/0930-0945.avi
+/monitoreo/videos/Videos_2022_02_17/0700-1000-CR7x94_NS/results/0945-1000.avi

@@ -1,0 +1,4 @@
+/monitoreo/videos/Videos_2022_02_17/0700-1000-CR10x19_NS
+/monitoreo/videos/Videos_2022_02_17/0700-1000-CR7x94_NS
+/monitoreo/videos/Videos_2022_02_17/1400-1700-Autosurx59_NS
+/monitoreo/videos/Videos_2022_02_17/1400-1700-CL13x135_NS
